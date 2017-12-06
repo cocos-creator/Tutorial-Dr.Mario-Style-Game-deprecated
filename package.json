@@ -1,0 +1,23 @@
+{
+  "name": "Tutorial-Dr.Mario-Style-Game",
+  "version": "1.0",
+  "descriptuon": "Tutorial",
+  "main": "index.js",
+  "dependencies": {
+    "gitment": "0.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "gitbook install && gitbook build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cocos-creator/Tutorial-Dr.Mario-Style-Game"
+  },
+  "author": "",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/cocos-creator/Tutorial-Dr.Mario-Style-Game/issues"
+  },
+  "homepage": "https://github.com/cocos-creator/Tutorial-Dr.Mario-Style-Game"
+}
