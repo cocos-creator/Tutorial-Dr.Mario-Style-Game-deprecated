@@ -3,4 +3,4 @@ In-order to write a game, first we need to make sure our development environment
 
 ### Table of contents
 - [Javscript developers](javascript-developers.md)
-- [c++ developers](cpp-developers.md))
+- [c++ developers](cpp-developers.md)
