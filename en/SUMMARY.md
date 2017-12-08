@@ -6,3 +6,4 @@
 - [Starting development](02-starting-development/index.md)
     - [Dr. Mario introduction](02-starting-development/drmario.md)
     - [Designing this game](02-starting-development/design.md)
+    - [Artwork](02-starting-development/artwork.md)
