@@ -4,3 +4,4 @@ Before we can begin, we must have some sort of idea about how to develop our gam
 ### Table of contents
 - [Dr. Mario](drmario.md)
 - [Designing the game](design.md)
+- [Artwork](artwork.md)
