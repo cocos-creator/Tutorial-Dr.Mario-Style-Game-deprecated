@@ -5,3 +5,4 @@ Before we can begin, we must have some sort of idea about how to develop our gam
 - [Dr. Mario](drmario.md)
 - [Designing the game](design.md)
 - [Artwork](artwork.md)
+- [Creating a Cocos Creator project](creating_a_cocos_creator_project.md)
