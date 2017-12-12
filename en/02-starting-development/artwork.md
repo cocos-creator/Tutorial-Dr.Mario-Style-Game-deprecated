@@ -3,17 +3,13 @@ The artwork for our game will be very simple. We can use colored `Node` objects 
 
 For simplicity purposes we can use a simple colored circle to represent the __germs__. Four colors seems like enough. Example:
 
-![]()
-![]()
-![]()
-![]()
+![](circle-blue.png) ![](circle-green.png)
+![](circle-red.png) ![](circle-yellow.png)
 
 We can also use a simple colored square to represent the __pills__. Example:
 
-![]()
-![]()
-![]()
-![]()
+![](square-blue.jpeg) ![](square-green.jpeg)
+![](square-red.jpeg) ![](square-yellow.jpeg)
 
 This will take many color combinations. Since we can rotate pieces we don't need quite as many conbinations as you might think. Take a look at the following table:
 
