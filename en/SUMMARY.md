@@ -8,6 +8,7 @@
     - [Designing this game](02-starting-development/design.md)
     - [Artwork](02-starting-development/artwork.md)
     - [Creating a Cocos Creator project](02-starting-development/creating_a_cocos_creator_project.md)
-- [Creating a menu screen](03-creating-a-menu-screen/index.md)    
+- [Creating a menu screen](03-creating-a-menu-screen/index.md)
+    - [Creating a scene](03-creating-a-menu-screen/menu_scene.md)
     - [Setting a colored background](03-creating-a-menu-screen/background.md)
     - []()
