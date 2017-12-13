@@ -5,7 +5,7 @@ The [Cocos Creator Documentation](http://www.cocos2d-x.org/docs/creator/en/getti
 
   ![](img/recent_projects_window.png)
 
-* Change to a __new project__ by clicking on the __New Project__ tab. We want to start a brand new game.
+* Change to a __new project__ by clicking on the __New Project__ tab. We want to start a brand new game. Select an __Empty Project__.
 
   ![](img/new_projects_window.png)
 
@@ -17,4 +17,4 @@ The [Cocos Creator Documentation](http://www.cocos2d-x.org/docs/creator/en/getti
 
   ![](img/main_window.png)
 
-Now that we have made it this far, let's start doing real development!
+Next, let's tackle a starting our project.
