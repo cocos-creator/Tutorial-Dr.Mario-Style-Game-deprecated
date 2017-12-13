@@ -8,4 +8,4 @@
     - [Designing this game](02-starting-development/design.md)
     - [Artwork](02-starting-development/artwork.md)
     - [Creating a Cocos Creator project](02-starting-development/creating_a_cocos_creator_project.md)
-    
+- [Laying out the UI](03-laying-out-ui/index.md)    
