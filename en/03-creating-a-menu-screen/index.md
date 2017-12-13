@@ -9,5 +9,6 @@ Take a look at these popular games and what their menu screens look like:
 After looking at these examples, let's make a menu screen of our own.
 
 ### Table of contents
+- [Creating a scene](menu_scene.md)
 - [Setting a colored background](background.md)
 - []()
