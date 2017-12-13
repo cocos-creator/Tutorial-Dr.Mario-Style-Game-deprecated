@@ -1,7 +1,7 @@
 ## Dr. Mario
 Let's take a look at a typical game play scene:
 
-![](dr_mario_gameplay.jpg)
+![](img/dr_mario_gameplay.jpg)
 
 What is actually going on here? Can you already tell how to play the game? Let's talk a bit about how to play the game:
 
@@ -12,7 +12,7 @@ What is actually going on here? Can you already tell how to play the game? Let's
   * Clear all the __germs__ and you move on to the next, harder level.
   * Making a wrong move is costly! __Pills__ will stack up and prevent you from clearing the __bottle__ easily.
 
-    ![](dr_mario_gameplay_hard.jpg)
+    ![](img/dr_mario_gameplay_hard.jpg)
 
     __Doesn't that look like a challenge?__
 

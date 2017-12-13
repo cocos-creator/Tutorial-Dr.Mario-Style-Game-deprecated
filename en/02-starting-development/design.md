@@ -1,17 +1,17 @@
 ## Designing the game
 Let us take a look at a simple Dr. Mario level and break it down into pieces.
 
-![](dr_mario_gameplay.jpg)
+![](img/dr_mario_gameplay.jpg)
 
 An initial glance reveals that we need some common items found in most every game. What are they?
 
   * `Sprite` objects for the germs, pills, other graphics
 
-  ![](dr_mario_breakdown_1.jpg)
+  ![](img/dr_mario_breakdown_1.jpg)
 
   * `Label` objects for score, statistics, etc
 
-  ![](dr_mario_breakdown_2.jpg)
+  ![](img/dr_mario_breakdown_2.jpg)
 
   * A way to detect collisions and act upon them
 
@@ -21,6 +21,6 @@ An initial glance reveals that we need some common items found in most every gam
 
 Other developers have have paid trribute to Dr. Mario and written their own clones. Here is an example that demonmstrates how the UI is easy to break down into it's elements:
 
-  ![](drmario-simple.png)
+  ![](img/drmario-simple.png)
 
 This idea is simple but demonstrates exactly what we need to do. Let's use it as inspiration for our design. A special __thank you__ to the author of this clone if they ever read this tutorial!
