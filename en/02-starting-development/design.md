@@ -7,11 +7,11 @@ An initial glance reveals that we need some common items found in most every gam
 
   * `Sprite` objects for the germs, pills, other graphics
 
-  ![](img/dr_mario_breakdown_1.jpg)
+    ![](img/dr_mario_breakdown_1.jpg)
 
   * `Label` objects for score, statistics, etc
 
-  ![](img/dr_mario_breakdown_2.jpg)
+    ![](img/dr_mario_breakdown_2.jpg)
 
   * A way to detect collisions and act upon them
 
