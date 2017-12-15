@@ -19,13 +19,13 @@ One really important task is to decide on a __design resolution__ for our game. 
     ![](img/rename_ui_node.png)
 
 ### Adding Sprites
-__Sprites__ are of course going to be used in out game. Let's get them added right from the start. We will use them in several places so if you can do this up front is always a good. You can add __Sprites__ in two ways.
+__Sprites__ are of course going to be used in out game. Let's get them added right from the start. We will use them in several places so if you can do this up front is always a good. You can add __Sprites__ in one of two ways.
 
-* 1. Drag and drop from your file system into the __Assets__ panel.
+* The first, drag and drop from your file-system into the __Assets__ panel.
 
     ![](img/asset_panel_add_2.png)
 
-* 2. From the __Cocos Creator__ menus, select __File --> Import Asset__.
+* The second, from the __Cocos Creator__ menubar, select __File --> Import Asset__.
 
     ![](img/asset_panel_add_1.png)
 

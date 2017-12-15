@@ -11,5 +11,7 @@ After looking at these examples, let's make a menu screen of our own.
 ### Table of contents
 - [Creating a scene](menu_scene.md)
 - [UI Housekeeping](housekeeping.md)
-- [Setting a colored background](background.md)
-- []()
+- [Creating a colored background](background.md)
+- [Adding a game title](game_title.md)
+- [Adding Sprites](sprites.md)
+- [Creating a play button](play_button.md)
