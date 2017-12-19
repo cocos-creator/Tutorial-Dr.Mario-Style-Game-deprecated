@@ -2,7 +2,7 @@
 Unless you want a black background, the first step is to start building up the UI simulating a "layered" look. You might remember `Layer` objects from __Cocos2d-x__. However, in __Cocos Creator__ `Layer` objects do not exist. Instead you can use a `Node` and set some __properties__ to achieve the same concept as you could before with a `Layer` object.
 
 ### Creating a background layer
-*  In the  __Node tree__ panel, __Right click__ on __UI__ node and select: __Create --> Create Render Nodes --> Sprite Node (Splash)__.
+*  In the __Node tree__ panel, __Right click__ on __UI__ node and select: __Create --> Create Render Nodes --> Sprite Node (Splash)__.
 
     ![](img/create_background_layer_node.png)
 
