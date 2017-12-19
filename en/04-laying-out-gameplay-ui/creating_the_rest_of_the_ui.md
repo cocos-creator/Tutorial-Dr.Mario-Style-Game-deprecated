@@ -13,4 +13,12 @@ We need to create more aspects of this to build up our game. Once we have the us
 
     ![](img/background_with_gameboard_stats_branding.png)
 
-* Next,
+* Next, we can toss a few __Sprites__ up in the __Branding__ node. Just drag and drop them on to __Branding__ node in the__Node Tree__ panel.
+
+    ![](img/node_panel_with_branding_sprites.png)
+
+* Fifth, adjust the __postion__ and __size__ of each __Sprite__ to achieve the look you wish. Example:
+
+    ![](img/branding_final.png)
+
+* 
