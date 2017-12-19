@@ -1,7 +1,7 @@
 ## Creating more of the game play interface.
 We need to create the rest of our game play interface. The goal here is to make this look like the game we planned at the beginning. Remember this picture:
 
-  ![](../02-starting-development/drmario-simple.png)
+  ![](../02-starting-development/img/drmario-simple.png)
 
 We need to create more aspects of this to build up our game. Once we have the user interface elements laid out we can start to build logic and add code.
 
@@ -13,4 +13,4 @@ We need to create more aspects of this to build up our game. Once we have the us
 
     ![](img/background_with_gameboard_stats_branding.png)
 
-* Next, 
+* Next,
