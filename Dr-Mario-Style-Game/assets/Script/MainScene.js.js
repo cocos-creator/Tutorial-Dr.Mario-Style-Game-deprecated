@@ -39,7 +39,8 @@ cc.Class({
 
 
 	callback: function (event) {
-    	console.log("starting game...");    
+    	cc.director.loadScene('GameScene');
+    	//console.log("starting game...");    
     }
     
     // update (dt) {},
