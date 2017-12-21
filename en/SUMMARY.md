@@ -19,3 +19,5 @@
     - [Getting started by a quick review](04-laying-out-gameplay-ui/quick_getting_started.md)
     - [Creating more of the game interface](04-laying-out-gameplay-ui/creating_the_rest_of_the_ui.md)
     - [Starting to code](04-laying-out-gameplay-ui/starting_to_code.md)
+- [Writing the core game logic](05-writing-game-logic/index.md)
+    
