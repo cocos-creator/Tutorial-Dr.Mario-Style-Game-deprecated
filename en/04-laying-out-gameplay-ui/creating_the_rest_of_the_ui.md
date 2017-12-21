@@ -21,4 +21,16 @@ We need to create more aspects of this to build up our game. Once we have the us
 
     ![](img/branding_final.png)
 
-* 
+* Sixth, we can add a few __Labels__ to show statistics about the game. For now we can just add __Level:__ and __Remaining:__ labels. You do this the same was using the __Node Library__ panel. Adjust the __color__, __string__, __position__, __szie__, etc of each to look how you wish. You will need two labels, one is the text and the second is the value we will show the user for each about their progress. The only requirement here is name your labels: __txtLevel__, __txtRemaining__, __valLevel__ and __valRemaining__.
+
+Design this how you wish. Your __Node Tree__ should look like this:
+
+  ![](img/node_panel_labels.png)
+
+Your UI could look look something like this example:
+
+  ![](img/background_with_gameboard_stats_branding_labels.png)
+
+Now, let's move on to staring to write some code.
+
+__Task:__ Now is a good time to save your project! From the __File__ menu, select __Save Scene__ or use your operating systems shortcut key.
