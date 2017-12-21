@@ -20,4 +20,6 @@
     - [Creating more of the game interface](04-laying-out-gameplay-ui/creating_the_rest_of_the_ui.md)
     - [Starting to code](04-laying-out-gameplay-ui/starting_to_code.md)
 - [Writing the core game logic](05-writing-game-logic/index.md)
+    - [What logic does our game need?](05-writing-game-logic/what-logic-does-our-game-need.md)
+    - [Populating the game board](05-writing-game-logic/populating-the-game-board.md)
     
