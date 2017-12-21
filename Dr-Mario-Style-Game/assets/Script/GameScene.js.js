@@ -37,11 +37,5 @@ cc.Class({
 
     },
 
-
-	callback: function (event) {
-    	cc.director.loadScene('GameScene');
-    	//console.log("starting game...");    
-    }
-    
     // update (dt) {},
 });
