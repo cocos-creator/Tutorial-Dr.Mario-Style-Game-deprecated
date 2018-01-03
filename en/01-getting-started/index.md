@@ -5,5 +5,5 @@
 In-order to write a game, first we need to make sure our development environment is setup properly. Installing __Cocos Creator__ is a simple double-click installlation.
 
 ### Table of contents
-- [Javscript developers](javascript-developers.md)
+- [JavaScript developers](javascript-developers.md)
 - [C++ developers](cpp-developers.md)
