@@ -2,7 +2,7 @@
 
 - [Getting started](01-getting-started/index.md)
     - [JavaScript developers](01-getting-started/javascript-developers.md)
-    - [c++ developers](01-getting-started/cpp-developers.md)
+    - [C++ developers](01-getting-started/cpp-developers.md)
 - [Starting development](02-starting-development/index.md)
     - [Dr. Mario introduction](02-starting-development/drmario.md)
     - [Designing this game](02-starting-development/design.md)
@@ -22,4 +22,3 @@
 - [Writing the core game logic](05-writing-game-logic/index.md)
     - [What logic does our game need?](05-writing-game-logic/what-logic-does-our-game-need.md)
     - [Populating the game board](05-writing-game-logic/populating-the-game-board.md)
-    
