@@ -2,7 +2,7 @@
 ![](Dr_Mario_logo.png) <sup id="a1">[****](#f1)</sup>
 
 ## Making a Dr. Mario style game in Cocos Creator
-Dr. Mario was published by Nintendo in the early 1990's. It turned out to be one of the most popular games of all time. In case you are not familiar you can watch some [game play](https://www.youtube.com/watch?v=iRLkhlXZsCc). For a history lesson check out [Wikipedia](https://en.wikipedia.org/wiki/Dr._Mario) and this [article](http://dreamandfriends.com/2012/10/26/virus-dr-mario-prototype/) about how the game was prototpyed.
+Dr. Mario was published by Nintendo in the early 1990's. It turned out to be one of the most popular games of all time. In case you are not familiar you can watch some [game play](https://www.youtube.com/watch?v=iRLkhlXZsCc). For a history lesson check out [Wikipedia](https://en.wikipedia.org/wiki/Dr._Mario) and this [article](http://dreamandfriends.com/2012/10/26/virus-dr-mario-prototype/) about how the game was prototyped.
 
 You can download the complete [game](http://cocos2d-x.org/docs/), however it is recommended that you follow this tutorial step by step for maximum understanding.
 
