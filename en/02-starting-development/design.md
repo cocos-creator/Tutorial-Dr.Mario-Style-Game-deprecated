@@ -19,7 +19,7 @@ An initial glance reveals that we need some common items found in most every gam
 
   * Let the player customize their game play experience
 
-Other developers have have paid trribute to Dr. Mario and written their own clones. Here is an example that demonmstrates how the UI is easy to break down into it's elements:
+Other developers have paid tribute to Dr. Mario and written their own clones. Here is an example that demonstrates how the UI is easy to break down into its elements:
 
   ![](img/drmario-simple.png)
 
