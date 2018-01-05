@@ -17,4 +17,4 @@ The [Cocos Creator Documentation](http://www.cocos2d-x.org/docs/creator/en/getti
 
     ![](img/main_window.png)
 
-Next, let's tackle creating a menu screen.
+__Task:__ Now is a good time to save your project! From the __File__ menu, select __Save Scene__ or use your operating system's shortcut key.

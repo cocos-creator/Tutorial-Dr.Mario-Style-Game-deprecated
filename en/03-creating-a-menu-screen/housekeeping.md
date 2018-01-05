@@ -1,4 +1,4 @@
-## UI housekeeping.
+## UI housekeeping
 We need to do a few tasks to get started laying out our user interface. These items include choosing a __design resolution__ and adding any __Sprites__ that we need to our __Cocos Creator__ project.
 
 ### Setting the design resolution
@@ -23,9 +23,9 @@ One really important task is to decide on a __design resolution__ for our game. 
     ![](img/rename_ui_node.png)
 
 ### Adding Sprites
-__Sprites__ are of course going to be used in out game. Let's get them added right from the start. We will use them in several places so if you can do this up front is always a good. You can add __Sprites__ in one of two ways.
+__Sprites__ will be used in our game. Let's get them added right from the start. We will use them in several places so if you can do this up front is always a good. You can add __Sprites__ in one of two ways.
 
-* The first, drag and drop from your file-system into the __Assets__ panel.
+* The first, drag and drop the image files from your file-system into the __Assets__ panel.
 
     ![](img/asset_panel_add_2.png)
 
@@ -33,4 +33,4 @@ __Sprites__ are of course going to be used in out game. Let's get them added rig
 
     ![](img/asset_panel_add_1.png)
 
-__Task:__ Now is a good time to save your project! From the __File__ menu, select __Save Scene__ or use your operating systems shortcut key.
+__Task:__ Now is a good time to save your project! From the __File__ menu, select __Save Scene__ or use your operating system's shortcut key.

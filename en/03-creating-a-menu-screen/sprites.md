@@ -9,4 +9,4 @@ The layout of these can be up to you. Just drag and drop from the __Assets__ pan
 
   ![](img/background_sprites.png)
 
-__Task:__ Now is a good time to save your project! From the __File__ menu, select __Save Scene__ or use your operating systems shortcut key.
+__Task:__ Now is a good time to save your project! From the __File__ menu, select __Save Scene__ or use your operating system's shortcut key.
