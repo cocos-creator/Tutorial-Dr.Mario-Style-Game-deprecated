@@ -25,7 +25,7 @@ One really important task is to decide on a __design resolution__ for our game. 
 ### Adding Sprites
 __Sprites__ will be used in our game. Let's get them added right from the start. We will use them in several places so if you can do this up front is always a good. You can add __Sprites__ in one of two ways.
 
-* The first, drag and drop the image files from your file-system into the __Assets__ panel.
+* The first, drag and drop the image files from your file-system into the __Assets__ panel. These __Sprites__ are part of this tutorial's [zip file](http://cocos2d-x.org/docs/dr.mario.clone.resources.tar.gz).
 
     ![](img/asset_panel_add_2.png)
 

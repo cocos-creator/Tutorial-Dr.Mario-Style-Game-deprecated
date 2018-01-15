@@ -22,7 +22,7 @@ gitbook build
 echo "Dr. Mario Clone -- copying needed files..."
 echo "Dr. Mario Clone -- zipping Cocos Creator project..."
 tar cvfz dr.mario.clone.tar.gz Dr-Mario-Style-Game/
-cp dr.mario.clone.tar.gz _book/.
+mv dr.mario.clone.tar.gz _book/.
 
 #cp redirect.html.en _book/index.html
 #cp index.html.en ../documentation/index.html
