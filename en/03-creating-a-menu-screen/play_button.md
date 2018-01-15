@@ -1,8 +1,8 @@
-## Creating a play buton
+## Creating a play button
 In the previous steps, we created a background, a game title and added some Sprites to make it look more interesting. Next, we need to add a button. When the button is pressed, we need to load the `Scene` object that holds the logiv for our game.
 
 ### Adding a Play button
-Adding a button, or adding *button like* functionality can be done in several ways. You can use a __Button__ node from the __Node Library__ panel. You can use a `Sprite` and make it act like button. Both are find ways to achieve our goal. For this example, let's use a __Button__ node from the __Node Library__ panel.
+Adding a button, or adding *button like* functionality can be done in several ways. You can use a __Button__ node from the __Node Library__ panel. You can use a `Sprite` and make it act like button. Both are fine ways to achieve our goal. For this example, let's use a __Button__ node from the __Node Library__ panel.
 
   ![](img/node_library_button.png)
 
