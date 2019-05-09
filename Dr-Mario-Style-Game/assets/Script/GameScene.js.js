@@ -1,12 +1,11 @@
-// Learn cc.Class:
-//  - [Chinese] http://www.cocos.com/docs/creator/scripting/class.html
-//  - [English] http://www.cocos2d-x.org/docs/editors_and_tools/creator-chapters/scripting/class/index.html
-// Learn Attribute:
-//  - [Chinese] http://www.cocos.com/docs/creator/scripting/reference/attributes.html
-//  - [English] http://www.cocos2d-x.org/docs/editors_and_tools/creator-chapters/scripting/reference/attributes/index.html
-// Learn life-cycle callbacks:
-//  - [Chinese] http://www.cocos.com/docs/creator/scripting/life-cycle-callbacks.html
-//  - [English] http://www.cocos2d-x.org/docs/editors_and_tools/creator-chapters/scripting/life-cycle-callbacks/index.html
+// the levels
+const level1 = ["R","G","B","Y"];
+const level2 = ["Y","Y","B","B","G","G","R","R"];
+const level3 = ["R","G","B","Y","R","G","B","Y","R","G","B","Y"];
+
+var _currentLevelValues = [];
+
+var _currentLevel = 1;
 
 cc.Class({
     extends: cc.Component,
@@ -27,15 +26,46 @@ cc.Class({
         //         this._bar = value;
         //     }
         // },
+
+        // holds objects of current level
+        //_currentLevel: {
+        //    default: [],
+        //    serializable: false
+        //}
     },
 
     // LIFE-CYCLE CALLBACKS:
+    
+    onLoad () {
 
-    // onLoad () {},
-
-    start () {
-
+		switch (_currentLevel)
+		{
+			case 1:
+				this.populateCurrentLevel(level1, _currentLevelValues);
+			case 2:
+				this.populateCurrentLevel(level2, _currentLevelValues);
+			case 3:
+				this.populateCurrentLevel(level3, _currentLevelValues);
+		}
     },
 
+    start () {
+		
+    },
+
+	populateCurrentLevel: function (_level, _currentLevelValues) {
+    
+    	// iterate through level array and make objects in currentLevel
+		for (let i = 0; i < _level.length; i++)
+		{
+			let germ = {
+				id: i+1,
+				germ: _level[i]
+			};
+
+			_currentLevelValues[i] = germ;
+		}
+	},
+	
     // update (dt) {},
 });
