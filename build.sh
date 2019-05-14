@@ -8,7 +8,7 @@ echo "------------------"
 
 ## fetch latest from GitHub
 echo "Dr. Mario Clone -- pulling latest from GitHub..."
-git pull origin master
+#git pull origin master
 
 ## make sure gitbook is up to date
 echo "Dr. Mario Clone -- ensuring GitBook is up to date..."
