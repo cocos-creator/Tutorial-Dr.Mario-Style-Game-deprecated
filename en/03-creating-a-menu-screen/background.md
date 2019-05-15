@@ -32,3 +32,5 @@ Now that we have our `Node` we need to assign it a color and a size. Typically, 
     ![](img/background_finished.png)
 
 __Task:__ Now is a good time to save your project! From the __File__ menu, select __Save Scene__ or use your operating system's shortcut key.
+
+Next, we can add a [game title](game_title.md)...

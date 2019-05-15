@@ -66,3 +66,5 @@ When we run our game and click out button we should see that it works:
 We will come back and add more code to this button later. For now, our button works when pressed. Let's move on to creating our main game scene, where the bulk of our game play will take place.  
 
 __Task:__ Now is a good time to save your project! From the __File__ menu, select __Save Scene__ or use your operating system's shortcut key.
+
+With this chapter finished, we can move on to [laying out our game play UI](../04-laying-out-gameplay-ui/index.md)...

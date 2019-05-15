@@ -20,3 +20,5 @@ To create a `Scene`:
 With these steps done, we can now start working with our new `Scene`. __Double click__ on the __MainScene__ and lets move on to laying out our user interface!
 
 __Task:__ Now is a good time to save your project! From the __File__ menu, select __Save Scene__ or use your operating system's shortcut key.
+
+We should do a bit of [housekeeping](housekeeping.md), next...

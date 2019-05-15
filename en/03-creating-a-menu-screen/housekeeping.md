@@ -34,3 +34,5 @@ __Sprites__ will be used in our game. Let's get them added right from the start.
     ![](img/asset_panel_add_1.png)
 
 __Task:__ Now is a good time to save your project! From the __File__ menu, select __Save Scene__ or use your operating system's shortcut key.
+
+Let's keep sprucing up our main scene with a [colored background](background.md)...

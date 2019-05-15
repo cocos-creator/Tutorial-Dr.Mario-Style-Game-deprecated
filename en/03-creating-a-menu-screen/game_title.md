@@ -14,3 +14,5 @@ Now that we have a background, created in the previous step, we need to add item
     ![](img/background_title.png)
 
 __Task:__ Now is a good time to save your project! From the __File__ menu, select __Save Scene__ or use your operating system's shortcut key.
+
+It is a good time to [add some Sprites](sprites.md)...

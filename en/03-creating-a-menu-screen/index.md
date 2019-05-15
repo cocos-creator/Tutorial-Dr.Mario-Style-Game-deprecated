@@ -15,3 +15,5 @@ After looking at these examples, let's make a menu screen of our own.
 - [Adding a game title](game_title.md)
 - [Adding Sprites](sprites.md)
 - [Creating a play button](play_button.md)
+
+Shall we create our [first scene](menu_scene.md)?
