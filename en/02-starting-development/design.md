@@ -24,3 +24,5 @@ Other developers have paid tribute to Dr. Mario and written their own clones. He
   ![](img/drmario-simple.png)
 
 This idea is simple but demonstrates exactly what we need to do. Let's use it as inspiration for our design. A special __thank you__ to the author of this clone if they ever read this tutorial!
+
+Next, we will need some [art work](artwork.md)...

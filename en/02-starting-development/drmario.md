@@ -16,4 +16,4 @@ What is actually going on here? Can you already tell how to play the game? Let's
 
     __Doesn't that look like a challenge?__
 
-Now that we know how to play, we should discuss how to design the game.
+Now that we know how to play, we should discuss how to [design the game](design.md)...

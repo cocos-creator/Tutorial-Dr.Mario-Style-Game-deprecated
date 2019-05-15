@@ -23,3 +23,5 @@ __Green__ | x | x | x | __y__
 We don't need a designer or artist to do this for us! We can code right? Let's combine the 2 squares programatically. We will go through this step further on in this tutorial.
 
 With our art in hand, let's get started on the good stuff. Laying out our game and writing some code.
+
+Let's move on to creating a new [Cocos Creator project](creating_a_cocos_creator_project.md)...
