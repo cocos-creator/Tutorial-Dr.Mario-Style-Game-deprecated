@@ -1,4 +1,4 @@
-## Game mechanics summary
+## What is Dr. Mario like?
 Let's take a look at a typical game play scene:
 
 ![](img/dr_mario_gameplay.jpg)
