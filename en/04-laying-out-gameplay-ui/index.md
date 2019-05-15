@@ -7,3 +7,5 @@ We are going to be repeating concepts that we learned in chapter 3, so there won
 - [Getting started by quick review](quick_getting_started.md)
 - [Creating more of the user interface](creating_the_rest_of_the_ui.md)
 - [Starting to code](starting_to_code.md)
+
+Let's repeat a few basic concepts [from Chapter 3](quick_getting_started.md) and continue on our journey...

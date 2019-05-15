@@ -34,3 +34,5 @@ Your UI could look look something like this example:
 Now, let's move on to staring to write some code.
 
 __Task:__ Now is a good time to save your project! From the __File__ menu, select __Save Scene__ or use your operating system's shortcut key.
+
+We can finally start [adding code](starting_to_code.md)....
