@@ -17,3 +17,5 @@ We need the following:
 This is a fair amount of work, let's get going!
 
 __Task:__ Now is a good time to save your project! From the __File__ menu, select __Save Scene__ or use your operating system's shortcut key.
+
+We can start to [populate the game board](populate-the-game-board.md)...
