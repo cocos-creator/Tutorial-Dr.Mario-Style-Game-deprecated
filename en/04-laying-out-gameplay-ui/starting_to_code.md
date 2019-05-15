@@ -25,8 +25,6 @@ When the __Game Scene__ loads we need to have many things happen to make our gam
 
 Doing this will allow __GameScene.js__ to load and run on __Game Scene__ startup. This is exactly what we need to get our game to take shape and start being playable.
 
-Now, let's move on to writing the core logic of the game.
-
 __Task:__ Now is a good time to save your project! From the __File__ menu, select __Save Scene__ or use your operating system's shortcut key.
 
 [Adding more game logic](../05-writing-game-logic/index.md) could be fun, let's do it!

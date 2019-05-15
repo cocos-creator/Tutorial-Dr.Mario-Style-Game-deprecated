@@ -11,8 +11,6 @@ We need to repeat several steps from chapter 3 in-order to get started building 
 
     ![](img/background_finished.png)
 
-Now, let's move on to creating the rest of the user interface.
-
 __Task:__ Now is a good time to save your project! From the __File__ menu, select __Save Scene__ or use your operating system's shortcut key.
 
 Next, let us continue [creating more UI](creating_the_rest_of_the_ui.md) elements...
