@@ -1,8 +1,8 @@
-## Creating a play buton
+## Creating a play button
 In the previous steps, we created a background, a game title and added some Sprites to make it look more interesting. Next, we need to add a button. When the button is pressed, we need to load the `Scene` object that holds the logiv for our game.
 
 ### Adding a Play button
-Adding a button, or adding *button like* functionality can be done in several ways. You can use a __Button__ node from the __Node Library__ panel. You can use a `Sprite` and make it act like button. Both are find ways to achieve our goal. For this example, let's use a __Button__ node from the __Node Library__ panel.
+Adding a button, or adding *button like* functionality can be done in several ways. You can use a __Button__ node from the __Node Library__ panel. You can use a `Sprite` and make it act like button. Both are fine ways to achieve our goal. For this example, let's use a __Button__ node from the __Node Library__ panel.
 
   ![](img/node_library_button.png)
 
@@ -65,4 +65,6 @@ When we run our game and click out button we should see that it works:
 
 We will come back and add more code to this button later. For now, our button works when pressed. Let's move on to creating our main game scene, where the bulk of our game play will take place.  
 
-__Task:__ Now is a good time to save your project! From the __File__ menu, select __Save Scene__ or use your operating systems shortcut key.
+__Task:__ Now is a good time to save your project! From the __File__ menu, select __Save Scene__ or use your operating system's shortcut key.
+
+With this chapter finished, we can move on to [laying out our game play UI](../04-laying-out-gameplay-ui/index.md)...

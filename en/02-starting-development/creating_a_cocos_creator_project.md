@@ -1,7 +1,7 @@
 ## Creating a new Cocos Creator project
 The [Cocos Creator Documentation](http://www.cocos2d-x.org/docs/creator/en/getting-started/hello-world.html) has official instructions for creating a new project. Please refer to it for any specific questions you may have. For the purpose of this game just the basic steps will be shown.
 
-* Launch __Cocos Creator__. You will be given a window that shows you anr __recent__ projects you have worked on. It looks like this:
+* Launch __Cocos Creator__. You will be given a window that shows you and __recent__ projects you have worked on. It looks like this:
 
     ![](img/recent_projects_window.png)
 
@@ -17,4 +17,6 @@ The [Cocos Creator Documentation](http://www.cocos2d-x.org/docs/creator/en/getti
 
     ![](img/main_window.png)
 
-Next, let's tackle a starting our project.
+__Task:__ Now is a good time to save your project! From the __File__ menu, select __Save Scene__ or use your operating system's shortcut key.
+
+Moving on now to creating a [main scene](../03-creating-a-menu-screen/index.md)...
