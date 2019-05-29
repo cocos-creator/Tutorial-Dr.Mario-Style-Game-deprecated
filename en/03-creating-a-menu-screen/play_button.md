@@ -31,35 +31,37 @@ Now that we have a button, we need to make it run code when we click it.
 
     ![](img/add_click_event_2.png)
 
-* Third, create a new Javascript file called __MenuScreen.js__. This is where any code we need for this `Scene` will go. We will add our __Play__ buttons logic here. You can do this by right clicking on the __Script__ folder in the __Assets Panel__ and selecting __Create --> Javascript__.
+* Third, create a new JavaScript file called __MenuScreen.js__. This is where any code we need for this `Scene` will go. We will add our __Play__ buttons logic here. You can do this by right clicking on the __Script__ folder in the __Assets Panel__ and selecting __Create --> JavaScript__.
 
     ![](img/add_click_event_3.png) ![](img/add_click_event_4.png)
 
-* Fourth, click the __Add Component__ button and select __Add Custom Component__ so we can add the newly created __MainScene.js__ as a component of our __Play__ button.
+* Fourth, click the __Add Component__ button in the __Properties__ panel and select __Add Custom Component__ so we can add the newly created __MainScene.js__ as a component of our __Play__ button.
 
-    ![](img/add_click_event_5.png)
+  ![](img/add_click_event_5.png)
+
+  ![](img/add_click_event_6.png)
 
 * Fifth, we need to add a __callback__ to the __MainScene.js__ so that we specify what code is to be run when the __Play__ button is clicked. Double clicking on the __MainScene.js__ will open it in the default external text editor specified by your operating system. Add the following __callback__:
 
   ```JavaScript
   callback: function (event) {
-    	console.log("starting game...");    
-  }
+    	console.log("play button clicked...");    
+  },
   ```
 
   We end up with a a Javascript file that looks like:
 
-  ![](img/add_click_event_6.png)
+  ![](img/add_click_event_7.png)
 
 * Next, we need to tell the editor that when our __Play__ button is clicked we need to run a certain chunk of Javascript code. This is easily done by dragging a reference to the button to the properties dialog. Then you select the __MainScene.js__ file and the function you want to run. In our case we called it __callback:__. Selecting a better name when your needs get complex is probably a good idea. Example:
 
-    ![](img/add_click_event_7.png)
+    ![](img/add_click_event_8.png)
 
 * Last, your __Properties__ panel should look like this when completed:
 
-    ![](img/add_click_event_8.png)
+    ![](img/add_click_event_9.png)
 
-When we run our game and click out button we should see that it works:
+When we run our game and click the __Play__ button we should see that it works:
 
   ![](img/menu_scene_final_running.png)
 
@@ -67,4 +69,6 @@ We will come back and add more code to this button later. For now, our button wo
 
 __Task:__ Now is a good time to save your project! From the __File__ menu, select __Save Scene__ or use your operating system's shortcut key.
 
-With this chapter finished, we can move on to [laying out our game play UI](../04-laying-out-gameplay-ui/index.md)...
+This chapter finished! You can download a completed project to this point [here](../Dr-Mario-Style-Tutorial_ch3.zip).
+
+We can now move on to [laying out our game play UI](../04-laying-out-gameplay-ui/index.md)...
