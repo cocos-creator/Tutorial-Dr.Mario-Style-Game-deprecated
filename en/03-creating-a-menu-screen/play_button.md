@@ -69,6 +69,6 @@ We will come back and add more code to this button later. For now, our button wo
 
 __Task:__ Now is a good time to save your project! From the __File__ menu, select __Save Scene__ or use your operating system's shortcut key.
 
-This chapter finished! You can download a completed project to this point [here](../Dr-Mario-Style-Tutorial_ch3.zip).
+This chapter finished! You can download a completed project to this point [here](../../Dr-Mario-Style-Tutorial_ch3.zip).
 
-We can now move on to [laying out our game play UI](../04-laying-out-gameplay-ui/index.md)...
+We can now move on to [letting the player select options](../04-creating-an-options-scene/index.md)...
