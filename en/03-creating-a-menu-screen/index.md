@@ -15,5 +15,8 @@ After looking at these examples, let's make a menu screen of our own.
 - [Adding a game title](game_title.md)
 - [Adding Sprites](sprites.md)
 - [Creating a play button](play_button.md)
+- [End Of Chapter Review](end.md)
+
+__Video:__ at the end of this chapter there is a video demonstrating the concepts of this chapter!
 
 Shall we create our [first scene](menu_scene.md)?
