@@ -1,4 +1,4 @@
-## Creating a menu screen
+## Creating an options screen
 Now that our game starts and we are ready to play why not allow the player to select a few options of how they play the game, before it starts. Recall, that the opriginal Dr. Mario also allowed this:
 
 ![](img/settings.jpg)
