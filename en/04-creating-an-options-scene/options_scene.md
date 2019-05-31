@@ -3,7 +3,7 @@ We can always expand later, but for now, let's create a few settings to control 
 
 We can layout the scene quickly to perhaps look something like this:
 
-![](img/final.png)
+![](img/part1.png)
 
 Call it __OptionsScene__.
 
@@ -14,7 +14,10 @@ Do you remember how to do everything needed to make this scene? Here are some hi
   * Add 3 buttons, one for each level, call them __level1, level2, level3__.
   * Add 3 callbacks, one for each button, call them __level1, level2, level3__.
   
-If you haven't made it this far or are stuck, you can download a completed project to this point [here](../../Dr-Mario-Style-Tutorial_ch4.zip).
+__Help:__ If you haven't made it this far or are stuck, you can download a completed project to this point [here](../../Dr-Mario-Style-Tutorial_ch4-part1.zip).
+
+__Video:__
+[![Creating An Options Scene](img/thumbnail1.png)](https://youtu.be/YfWWjeI3sV0 "Creating An Options Scene")
 
 Once you are at this stage we can do a few things to make this start to feel like a real game. We can make a __Scene__ change from `MainScene` to `OptionsScene` when the game starts up.  
 
