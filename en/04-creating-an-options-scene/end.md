@@ -2,7 +2,7 @@
 
 __This chapter finished!__ You can download a completed project to this point [here](../../Dr-Mario-Style-Tutorial_ch4.zip).
 
-__Video:__
-[![Creating a menu scene](img/thumbnail.png)](https://youtu.be/3IFYtb-LgnY "Creating a menu scene")
+__Videos:__
+[![Creating an Options Scene](img/thumbnail1.png)](https://youtu.be/ktC2r5RQO2g "Creating an Options Scene")
 
 We can now move on to [letting the player select options](../)...

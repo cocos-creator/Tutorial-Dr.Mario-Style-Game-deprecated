@@ -11,6 +11,6 @@ We can draw on what we have read so far to make this next scene very quickly.
 - [Scene Calling Another Scene](scene_calling_scene.md)
 - [End Of Chapter Review](end.md)
 
-__Video:__ at the end of this chapter there is a video demonstrating the concepts of this chapter!
+__Video:__ throughout this chapter there are videos demonstrating the concepts of this chapter!
 
 Shall we create our [game options scene](options_scene.md)?

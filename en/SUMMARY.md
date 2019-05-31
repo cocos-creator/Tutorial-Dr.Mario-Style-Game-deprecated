@@ -19,6 +19,8 @@
     - [End Of Chapter Review](03-creating-a-menu-screen/end.md)
 - [Creating a game options screen](04-creating-an-options-scene/index.md)
     - [Lay out the scene](04-creating-an-options-scene/options_scene.md)
+    - [Scene Calling Another Scene](04-creating-an-options-scene/scene_calling_scene.md)
+    - [End Of Chapter Review](04-creating-an-options-scene/end.md)
 - [Laying out the game user interface](05-laying-out-gameplay-ui/index.md)
     - [Getting started by a quick review](05-laying-out-gameplay-ui/quick_getting_started.md)
     - [Creating more of the game interface](05-laying-out-gameplay-ui/creating_the_rest_of_the_ui.md)

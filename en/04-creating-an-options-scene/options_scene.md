@@ -16,8 +16,7 @@ Do you remember how to do everything needed to make this scene? Here are some hi
   
 __Help:__ If you haven't made it this far or are stuck, you can download a completed project to this point [here](../../Dr-Mario-Style-Tutorial_ch4-part1.zip).
 
-__Video:__
-[![Creating An Options Scene](img/thumbnail1.png)](https://youtu.be/YfWWjeI3sV0 "Creating An Options Scene")
+[![Creating an Options Scene](img/thumbnail1.png)](https://youtu.be/ktC2r5RQO2g "Creating an Options Scene")
 
 Once you are at this stage we can do a few things to make this start to feel like a real game. We can make a __Scene__ change from `MainScene` to `OptionsScene` when the game starts up.  
 
