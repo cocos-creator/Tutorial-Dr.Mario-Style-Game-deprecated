@@ -9,7 +9,7 @@ The [Cocos Creator Documentation](http://www.cocos2d-x.org/docs/creator/en/getti
 
     ![](img/new_projects_window.png)
 
-* Give your project the name __Dr-Mario-Style-Tutorial__ and choose a location on your filesystem that best suits you. Click __Create__.
+* Give your project the name __Dr_Mario_Style_Tutorial__ and choose a location on your filesystem that best suits you. Click __Create__.
 
     ![](img/new_path.png)
 
