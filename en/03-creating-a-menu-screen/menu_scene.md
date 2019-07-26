@@ -3,7 +3,7 @@ Before we can do anything we need a `Scene` object to hold everything. Our first
 
 To create a `Scene`:
 
-* Right click on __Scene__ in the __Assets panel__ and select __Create__ and then __Scene__.
+* Click __+__ in the __Assets panel__ (or Right click on the __Assets panel__) and select __Create__ and then __Scene__.
 
     ![](img/create_scene_1.png)
 
@@ -13,7 +13,7 @@ To create a `Scene`:
 
 * Double click on the __MainScene__ to open it.
 
-* In the __Properties panel__ for the `Scene` make sure to select the checkboxes for __Auto Release Assets__ and __Async Load Assets__.
+* In the __Properties panel__ for the `Scene` make sure to select the checkboxes for __Auto Release Assets__ and __Async Load Assets__ and click __Apply__.
 
     ![](img/create_scene_3.png)
 

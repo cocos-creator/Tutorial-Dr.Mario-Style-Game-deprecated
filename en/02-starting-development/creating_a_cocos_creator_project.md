@@ -9,7 +9,7 @@ The [Cocos Creator Documentation](http://www.cocos2d-x.org/docs/creator/en/getti
 
     ![](img/new_projects_window.png)
 
-* Give your project the name __Dr-Mario-Style-Tutorial__ and choose a location on your filesystem that best suits you. Click __Create__.
+* Give your project the name __Dr_Mario_Style_Tutorial__ and choose a location on your filesystem that best suits you. Click __Create__.
 
     ![](img/new_path.png)
 
@@ -19,4 +19,4 @@ The [Cocos Creator Documentation](http://www.cocos2d-x.org/docs/creator/en/getti
 
 __Task:__ Now is a good time to save your project! From the __File__ menu, select __Save Scene__ or use your operating system's shortcut key.
 
-Moving on now to creating a [main scene](../03-creating-a-menu-screen/index.md)...
+We can now move on to [the ending of this chapter](end.md)...
